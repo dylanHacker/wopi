@@ -1,0 +1,6 @@
+server:
+  port: 9017
+#  context-path: /
+management:
+  security:
+    enabled: false
