@@ -1,4 +1,4 @@
-package com.xuehai.wopi.dto;
+package com.dylan.wopi.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

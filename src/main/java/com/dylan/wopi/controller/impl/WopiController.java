@@ -1,11 +1,11 @@
-package com.xuehai.wopi.controller.impl;
+package com.dylan.wopi.controller.impl;
 
 import com.alibaba.fastjson.JSON;
-import com.xuehai.wopi.common.util.UrlUtil;
-import com.xuehai.wopi.controller.api.IWopiController;
-import com.xuehai.wopi.dto.FileBasicInfoRes;
-import com.xuehai.wopi.dto.StringUtil;
-import com.xuehai.wopi.service.api.WopiService;
+import com.dylan.wopi.common.util.UrlUtil;
+import com.dylan.wopi.controller.api.IWopiController;
+import com.dylan.wopi.dto.FileBasicInfoRes;
+import com.dylan.wopi.dto.StringUtil;
+import com.dylan.wopi.service.api.WopiService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

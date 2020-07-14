@@ -1,4 +1,4 @@
-package com.xuehai.wopi;
+package com.dylan.wopi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

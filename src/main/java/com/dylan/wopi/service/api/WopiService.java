@@ -1,6 +1,6 @@
-package com.xuehai.wopi.service.api;
+package com.dylan.wopi.service.api;
 
-import com.xuehai.wopi.dto.FileBasicInfoRes;
+import com.dylan.wopi.dto.FileBasicInfoRes;
 
 import javax.servlet.http.HttpServletResponse;
 import java.util.HashMap;

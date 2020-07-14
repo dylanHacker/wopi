@@ -1,4 +1,4 @@
-package com.xuehai.wopi.dto;
+package com.dylan.wopi.dto;
 
 import java.io.UnsupportedEncodingException;
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package com.xuehai.wopi.common.util;
+package com.dylan.wopi.common.util;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package com.xuehai.wopi.dto;
+package com.dylan.wopi.dto;
 
 /**
  * Created by Administrator on 2017/1/21 0021.

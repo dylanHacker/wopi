@@ -1,10 +1,10 @@
-package com.xuehai.wopi.service.impl;
+package com.dylan.wopi.service.impl;
 
-import com.xuehai.wopi.common.code.TypeCode;
-import com.xuehai.wopi.common.util.NetUtil;
-import com.xuehai.wopi.dto.FileBasicInfoRes;
-import com.xuehai.wopi.dto.StringUtil;
-import com.xuehai.wopi.service.api.WopiService;
+import com.dylan.wopi.common.code.TypeCode;
+import com.dylan.wopi.common.util.NetUtil;
+import com.dylan.wopi.dto.FileBasicInfoRes;
+import com.dylan.wopi.dto.StringUtil;
+import com.dylan.wopi.service.api.WopiService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

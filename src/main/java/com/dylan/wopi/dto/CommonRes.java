@@ -1,4 +1,4 @@
-package com.xuehai.wopi.dto;
+package com.dylan.wopi.dto;
 
 /**
  * Created by Chenyz on 2016/12/20.

@@ -1,10 +1,10 @@
-package com.xuehai.wopi.common.util;
+package com.dylan.wopi.common.util;
 
 import com.alibaba.fastjson.JSON;
+import com.dylan.wopi.dto.StringUtil;
+import com.dylan.wopi.dto.UploadFileRes;
 import com.xuehai.file.ClientSDK;
-import com.xuehai.wopi.common.code.ResultCode;
-import com.xuehai.wopi.dto.StringUtil;
-import com.xuehai.wopi.dto.UploadFileRes;
+import com.dylan.wopi.common.code.ResultCode;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import sun.misc.BASE64Encoder;
